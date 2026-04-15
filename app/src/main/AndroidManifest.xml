@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.example.app"
+    package="com.giverscycle.app"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,7 +14,7 @@
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:configChanges="orientation|screenSize"
-            android:name="com.example.app.MainActivity"
+            android:name="com.giverscycle.app.MainActivity"
             android:label="@string/app_name"
             android:exported="true">
             <intent-filter>
